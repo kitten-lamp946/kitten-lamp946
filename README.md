@@ -1,16 +1,19 @@
-## Hi there 👋
+# G'day mate 🦘
 
-<!--
-**kitten-lamp946/kitten-lamp946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **kitten-lamp946**, a freelance developer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Always learning new things
+- 🎨 Code is poetry
+- 🎯 Goal: ship something useful every week
+- 🚀 Performance matters
+- 🌟 Open source enthusiast
+
+## Tech
+
+`Nim` `Dart` `Flask` `Node.js` `Protobuf` `Vue`
+
+---
+
+_Weekend coder._
